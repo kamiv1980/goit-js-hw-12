@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/kamiv1980/goit-js-hw-12#readme",
+  "homepage": "https://github.com/kamiv1980/goit-js-hw-12/build#index",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
@@ -54,3 +54,4 @@
     "pnotify": "^4.0.0"
   }
 }
+
